@@ -3,7 +3,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 <br><br>
 
-**🌟 Result-driven Data Scientist** with over **2.7+ years of experience** delivering scalable machine learning solutions using **AWS**.      
+🌟 I am a **Data Scientist** with over **2.7+ years of experience** delivering scalable machine learning solutions.      
    
    I specialize in:  
   - **Predictive Analytics & MLOps**: Building and deploying machine learning models in production.  
@@ -15,7 +15,7 @@
 ---
 
 
-### 🚀 **My Tech Stack**
+### 🚀 **Karan's Tech Stack**
 
 #### 💡 **Machine Learning**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -73,7 +73,7 @@
 
 ---
 
-### 📈 **My Github Contributions**
+### 📈 **Karan's  Github Contributions**
 ![Karan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=karanyadav14&theme=radical)
 
 ![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanyadav14&show_icons=true&theme=radical)
