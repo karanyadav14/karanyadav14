@@ -3,11 +3,12 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 <br><br>
 
-**🌟 Result-driven Data Scientist** with over **2.7+ years of experience** delivering scalable machine learning solutions using **AWS**.  
-I specialize in:  
-- **Predictive Analytics & MLOps**: Building and deploying machine learning models in production.  
-- **Big Data**: Expertise in **Apache Hadoop** and **PySpark** for robust data pipelines.  
-- **Programming**: Skilled in **Python**, **SQL**, **C** and **C++**.  
+**🌟 Result-driven Data Scientist** with over **2.7+ years of experience** delivering scalable machine learning solutions using **AWS**.      
+   
+   I specialize in:  
+  - **Predictive Analytics & MLOps**: Building and deploying machine learning models in production.  
+  - **Big Data**: Expertise in **Apache Hadoop** and **PySpark** for robust data pipelines.  
+  - **Programming**: Skilled in **Python**, **SQL**, **C** and **C++**.  
 
 💡 Passionate about transforming data into actionable insights!  
 
