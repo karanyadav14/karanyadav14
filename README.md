@@ -13,6 +13,11 @@
 💡 Passionate about transforming data into actionable insights!  
 
 ---
+### 📊 **Karan's Profile Visits**
+
+[![Karan Yadav profile views](https://u8views.com/api/v1/github/profiles/76391007/views/day-week-month-total-count.svg)](https://u8views.com/github/karanyadav14)
+
+---
 
 
 ### 🚀 **Karan's Tech Stack**
