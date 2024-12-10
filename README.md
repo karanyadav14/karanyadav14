@@ -1,6 +1,7 @@
 # Hi, I'm Karan Yadav 👋
 
-![Profile Banner](https://via.placeholder.com/1000x250?text=Welcome+to+My+GitHub+Profile!)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
+<br><br>
 
 **🌟 Result-driven Data Scientist** with over **2.7+ years of experience** delivering scalable machine learning solutions using **AWS**.  
 I specialize in:  
@@ -83,7 +84,7 @@ I specialize in:
 ---
 
 ### 📫 **Let's Connect**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/karanyadav14)
-- 📩 **Email**: karanyadav.career@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanyadav14)
+- [![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanyadav.career@gmail.com)
 
 
