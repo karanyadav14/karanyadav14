@@ -90,7 +90,6 @@
 ---
 
 ### 📫 **Let's Connect**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanyadav14)
-- [![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanyadav.career@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanyadav14) [![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanyadav.career@gmail.com)
 
 
