@@ -79,7 +79,6 @@
 ---
 
 ### 📈 **Karan's  Github Contributions**
-![Karan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=karanyadav14&theme=radical)
 
 ![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanyadav14&show_icons=true&theme=radical)
 
