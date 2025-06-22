@@ -23,7 +23,7 @@
 
 ### 🚀 **Karan's Tech Stack**
 
-#### ![🤖 Generative AI](https://img.shields.io/badge/🤖%20Generative%20AI-333333?style=for-the-badge)
+#### 🤖 **Generative AI**
 ![GPT](https://img.shields.io/badge/GPT-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-3C3C3C?style=for-the-badge&logo=meta&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-9B59B6?style=for-the-badge&logo=anthropic&logoColor=white)
