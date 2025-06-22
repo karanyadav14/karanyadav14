@@ -3,12 +3,13 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 <br><br>
 
-🌟 I am a **Data Scientist** with over **2.7+ years of experience** delivering scalable machine learning solutions.      
+🌟 I am a **Data Scientist** with over **3+ years of experience** delivering scalable machine learning and LLM based solutions.      
    
    I specialize in:  
-  - **Predictive Analytics & MLOps**: Building and deploying machine learning models in production.  
+  - **Generative & LLMOps**: Building LangChain And LangGraph based Conversational and Agentic chat bots. 
+  - **Predictive Analytics & MLOps**: Deploying machine learning models in production.  
   - **Big Data**: Expertise in **Apache Hadoop** and **PySpark** for robust data pipelines.  
-  - **Programming**: Skilled in **Python**, **SQL**, **C** and **C++**.  
+  - **Programming**: Skilled in **Python**, **SQL**.  
 
 💡 Passionate about transforming data into actionable insights!  
 
@@ -21,6 +22,19 @@
 
 
 ### 🚀 **Karan's Tech Stack**
+
+#### 💡 **Generative AI**
+![GPT](https://img.shields.io/badge/GPT-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-3C3C3C?style=for-the-badge&logo=meta&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-9B59B6?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-009688?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-607D8B?style=for-the-badge&logo=python&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1E88E5?style=for-the-badge&logo=postgresql&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-5C6BC0?style=for-the-badge&logo=milvus&logoColor=white)
+![QLoRA](https://img.shields.io/badge/QLoRA-4CAF50?style=for-the-badge&logo=nvidia&logoColor=white)
+![PEFT](https://img.shields.io/badge/PEFT-F06292?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-2D3748?style=for-the-badge&logo=transformers&logoColor=white)
+
 
 #### 💡 **Machine Learning**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
