@@ -6,7 +6,7 @@
 🌟 I am a **Data Scientist** with over **3+ years of experience** delivering scalable machine learning and LLM based solutions.      
    
    I specialize in:  
-  - **Generative & LLMOps**: Building LangChain And LangGraph based Conversational and Agentic chat bots. 
+  - **Generative AI & LLMOps**: Building LangChain And LangGraph based Conversational and Agentic chat bots. 
   - **Predictive Analytics & MLOps**: Deploying machine learning models in production.  
   - **Big Data**: Expertise in **Apache Hadoop** and **PySpark** for robust data pipelines.  
   - **Programming**: Skilled in **Python**, **SQL**.  
@@ -23,7 +23,7 @@
 
 ### 🚀 **Karan's Tech Stack**
 
-#### 💡 **Generative AI**
+#### ![🤖 Generative AI](https://img.shields.io/badge/🤖%20Generative%20AI-333333?style=for-the-badge)
 ![GPT](https://img.shields.io/badge/GPT-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-3C3C3C?style=for-the-badge&logo=meta&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-9B59B6?style=for-the-badge&logo=anthropic&logoColor=white)
